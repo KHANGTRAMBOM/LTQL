@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="ChiTietHoaDonControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="ChiTietPhong.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Inhoadon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ShowUserControl.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ThemDichVu.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="ThemNhanVien.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="CustomButton.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="DashBoard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DatPhong.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="NhanVienControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="RoomItem.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="SoDoPhongControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="DichVuControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="ThanhToanControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="ThemPhongControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

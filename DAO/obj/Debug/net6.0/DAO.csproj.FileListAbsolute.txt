@@ -1,0 +1,15 @@
+E:\Visual\Work_Space\DoanLTQL\DAO\bin\Debug\net6.0\DAO.deps.json
+E:\Visual\Work_Space\DoanLTQL\DAO\bin\Debug\net6.0\DAO.dll
+E:\Visual\Work_Space\DoanLTQL\DAO\bin\Debug\net6.0\DAO.pdb
+E:\Visual\Work_Space\DoanLTQL\DAO\bin\Debug\net6.0\DTO.dll
+E:\Visual\Work_Space\DoanLTQL\DAO\bin\Debug\net6.0\DTO.pdb
+E:\Visual\Work_Space\DoanLTQL\DAO\obj\Debug\net6.0\DAO.csproj.AssemblyReference.cache
+E:\Visual\Work_Space\DoanLTQL\DAO\obj\Debug\net6.0\DAO.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual\Work_Space\DoanLTQL\DAO\obj\Debug\net6.0\DAO.AssemblyInfoInputs.cache
+E:\Visual\Work_Space\DoanLTQL\DAO\obj\Debug\net6.0\DAO.AssemblyInfo.cs
+E:\Visual\Work_Space\DoanLTQL\DAO\obj\Debug\net6.0\DAO.csproj.CoreCompileInputs.cache
+E:\Visual\Work_Space\DoanLTQL\DAO\obj\Debug\net6.0\DAO.csproj.CopyComplete
+E:\Visual\Work_Space\DoanLTQL\DAO\obj\Debug\net6.0\DAO.dll
+E:\Visual\Work_Space\DoanLTQL\DAO\obj\Debug\net6.0\refint\DAO.dll
+E:\Visual\Work_Space\DoanLTQL\DAO\obj\Debug\net6.0\DAO.pdb
+E:\Visual\Work_Space\DoanLTQL\DAO\obj\Debug\net6.0\ref\DAO.dll
