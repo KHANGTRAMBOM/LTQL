@@ -1,0 +1,17 @@
+E:\Visual\Work_Space\DoanLTQL\BUS\obj\Debug\net6.0\BUS.csproj.AssemblyReference.cache
+E:\Visual\Work_Space\DoanLTQL\BUS\obj\Debug\net6.0\BUS.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual\Work_Space\DoanLTQL\BUS\obj\Debug\net6.0\BUS.AssemblyInfoInputs.cache
+E:\Visual\Work_Space\DoanLTQL\BUS\obj\Debug\net6.0\BUS.AssemblyInfo.cs
+E:\Visual\Work_Space\DoanLTQL\BUS\obj\Debug\net6.0\BUS.csproj.CoreCompileInputs.cache
+E:\Visual\Work_Space\DoanLTQL\BUS\bin\Debug\net6.0\BUS.deps.json
+E:\Visual\Work_Space\DoanLTQL\BUS\bin\Debug\net6.0\BUS.dll
+E:\Visual\Work_Space\DoanLTQL\BUS\bin\Debug\net6.0\BUS.pdb
+E:\Visual\Work_Space\DoanLTQL\BUS\bin\Debug\net6.0\DAO.dll
+E:\Visual\Work_Space\DoanLTQL\BUS\bin\Debug\net6.0\DTO.dll
+E:\Visual\Work_Space\DoanLTQL\BUS\bin\Debug\net6.0\DAO.pdb
+E:\Visual\Work_Space\DoanLTQL\BUS\bin\Debug\net6.0\DTO.pdb
+E:\Visual\Work_Space\DoanLTQL\BUS\obj\Debug\net6.0\BUS.csproj.CopyComplete
+E:\Visual\Work_Space\DoanLTQL\BUS\obj\Debug\net6.0\BUS.dll
+E:\Visual\Work_Space\DoanLTQL\BUS\obj\Debug\net6.0\refint\BUS.dll
+E:\Visual\Work_Space\DoanLTQL\BUS\obj\Debug\net6.0\BUS.pdb
+E:\Visual\Work_Space\DoanLTQL\BUS\obj\Debug\net6.0\ref\BUS.dll

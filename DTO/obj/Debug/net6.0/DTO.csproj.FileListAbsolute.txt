@@ -1,0 +1,14 @@
+E:\Visual\Work_Space\DoanLTQL\DTO\bin\Debug\net6.0\DTO.deps.json
+E:\Visual\Work_Space\DoanLTQL\DTO\bin\Debug\net6.0\DTO.runtimeconfig.json
+E:\Visual\Work_Space\DoanLTQL\DTO\bin\Debug\net6.0\DTO.dll
+E:\Visual\Work_Space\DoanLTQL\DTO\bin\Debug\net6.0\DTO.pdb
+E:\Visual\Work_Space\DoanLTQL\DTO\obj\Debug\net6.0\DTO.csproj.AssemblyReference.cache
+E:\Visual\Work_Space\DoanLTQL\DTO\obj\Debug\net6.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual\Work_Space\DoanLTQL\DTO\obj\Debug\net6.0\DTO.AssemblyInfoInputs.cache
+E:\Visual\Work_Space\DoanLTQL\DTO\obj\Debug\net6.0\DTO.AssemblyInfo.cs
+E:\Visual\Work_Space\DoanLTQL\DTO\obj\Debug\net6.0\DTO.csproj.CoreCompileInputs.cache
+E:\Visual\Work_Space\DoanLTQL\DTO\obj\Debug\net6.0\DTO.dll
+E:\Visual\Work_Space\DoanLTQL\DTO\obj\Debug\net6.0\refint\DTO.dll
+E:\Visual\Work_Space\DoanLTQL\DTO\obj\Debug\net6.0\DTO.pdb
+E:\Visual\Work_Space\DoanLTQL\DTO\obj\Debug\net6.0\DTO.genruntimeconfig.cache
+E:\Visual\Work_Space\DoanLTQL\DTO\obj\Debug\net6.0\ref\DTO.dll
